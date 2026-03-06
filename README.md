@@ -1,5 +1,7 @@
 # Fantastic
 John Fantastic
-John
-This is John Fantastic
-This account is created for testing and CTF (Capture The Flag) scenarios. All shared content is for educational and competition purposes only.
+
+Sistem üzerinde bazı incelemeler yaptım ve birkaç not aldım. Detayları görüşmek için bu numaradan bana ulaşabilirsiniz: +44 1632 960123
+
+I made some observations on the system and took a few notes. You can reach me at this number to discuss the details: +44 1632 960123
+
